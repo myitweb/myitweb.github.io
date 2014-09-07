@@ -1,0 +1,45 @@
+header, footer
+{
+	background-image:url("../img/programming-bsc-it.jpg");	
+}
+
+
+.head-foot
+{
+	background:#BABABA;
+	border: 2px solid #a1a1a1;
+    border-radius: 25px;
+    padding: 1em 1em;
+    margin-top:0.5em;
+    margin-bottom:0.5em;
+    opacity:0.85;
+}
+
+.sidebar
+{
+	margin-top:0.5em;
+    margin-bottom:0.5em;
+
+}
+
+.side-widget
+{
+	margin:0.2em;
+	padding:5px;
+}
+
+ul, footer
+{
+	list-style-type: none;
+}
+
+
+.tidy
+{
+	margin-top:0.5em;
+}
+
+.center
+{
+text-align: center;
+}
