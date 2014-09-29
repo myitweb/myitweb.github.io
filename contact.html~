@@ -81,22 +81,86 @@
 		 	
 <article id="main" class= "large-8 columns" itemprop="mainContentOfPage">
     	<h2 class="tidy" itemprop="headline">Contact us</h2>
+	<p>Please fill this form and relax. We will get in touch with you using your email address.</p>
 
-<p>Please fill this form and relax. We will get in touch with you using your email address.</p>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><form id="emf-form" target="_self" enctype="multipart/form-data" method="post" action="http://www.emailmeform.com/builder/form/2g6KfP89MXe8fV87d">
+<table style="text-align:left;" cellpadding="2" cellspacing="0" border="0" bgcolor="#FFFFFF">
+<tr>
+</tr><tr valign="top" ><td id="td_element_label_0" style="" align=""><font face="Verdana" size="2" color="#000000"><b>Name</b></font>
+<span style="color:red;"><small></small></span>
+</td></tr>
 
-	<script language="javascript">var sa_email_id = '32064-c3e97';var sa_sent_text = 'Thank you for contacting us. We will get back to you soon.';</script>
-<script language="javascript" src="http://s1.smartaddon.com/sa_htmlform.js"></script>
-<div id="sa_contactdiv">
-<form name=sa_htmlform style="margin:0px" onsubmit="return sa_contactform()">
-<table>
-<tr><td>Name:<br><input type="text" name="name" /></td></tr>
-<tr><td>E-mail Address: <span style="color:#D70000">*</span><br><input type="text" name="email" required="true" /></td></tr>
-<tr><td>Subject: <span style="color:#D70000">*</span><br><input type="text" name="subject" required="true" /></td></tr>
-<tr><td>Message: <span style="color:#D70000">*</span><br><textarea name="message" cols="42" rows="9" required="true"></textarea></td></tr>
-<tr><td><input type="submit" value="Send Message" style="font-weight:bold"></td></tr>
-</table>
-</form>
-
+<tr valign="top" ><td id="td_element_label_2" style="" align=""><font face="Verdana" size="2" color="#000000"><b>First</b></font>
+<span style="color:red;"><small></small></span>
+</td></tr><tr><td id="td_element_field_2" style=""><input id="element_2" name="element_2" value="" size="30"
+					class="validate[optional]" type="text" /><div style="padding-bottom:8px;color:#000000;"><small><font face="Verdana"></font></small></div>
+</td>
+</tr><tr valign="top" ><td id="td_element_label_3" style="" align=""><font face="Verdana" size="2" color="#000000"><b>Last</b></font>
+<span style="color:red;"><small></small></span>
+</td></tr><tr><td id="td_element_field_3" style=""><input id="element_3" name="element_3" value="" size="30"
+					class="validate[optional]" type="text" /><div style="padding-bottom:8px;color:#000000;"><small><font face="Verdana"></font></small></div>
+</td>
+</tr><tr valign="top" ><td id="td_element_label_4" style="" align=""><font face="Verdana" size="2" color="#000000"><b>Suffix</b></font>
+<span style="color:red;"><small></small></span>
+</td></tr><tr><td id="td_element_field_4" style=""><input id="element_4" name="element_4" value="" size="30"
+					class="validate[optional]" type="text" /><div style="padding-bottom:8px;color:#000000;"><small><font face="Verdana"></font></small></div>
+</td>
+</tr><tr valign="top" ><td id="td_element_label_5" style="" align=""><font face="Verdana" size="2" color="#000000"><b>MI</b></font>
+<span style="color:red;"><small></small></span>
+</td></tr><tr><td id="td_element_field_5" style=""><input id="element_5" name="element_5" value="" size="30"
+					class="validate[optional]" type="text" /><div style="padding-bottom:8px;color:#000000;"><small><font face="Verdana"></font></small></div>
+</td>
+</tr><tr valign="top" ><td id="td_element_label_6" style="" align=""><font face="Verdana" size="2" color="#000000"><b>Middle</b></font>
+<span style="color:red;"><small></small></span>
+</td></tr><tr><td id="td_element_field_6" style=""><input id="element_6" name="element_6" value="" size="30"
+					class="validate[optional]" type="text" /><div style="padding-bottom:8px;color:#000000;"><small><font face="Verdana"></font></small></div>
+</td>
+</tr><tr valign="top" ><td id="td_element_label_7" style="" align=""><font face="Verdana" size="2" color="#000000"><b>Email</b></font>
+<span style="color:red;"><small></small></span>
+</td></tr><tr><td id="td_element_field_7" style=""><input id="element_7" name="element_7"
+				class="validate[optional,custom[email]]"
+				value="" size="30" type="text" /><div style="padding-bottom:8px;color:#000000;"><small><font face="Verdana"></font></small></div>
+</td>
+</tr><tr valign="top" ><td id="td_element_label_8" style="" align=""><font face="Verdana" size="2" color="#000000"><b>Subject</b></font>
+<span style="color:red;"><small></small></span>
+</td></tr><tr><td id="td_element_field_8" style=""><input id="element_8" name="element_8" value="" size="30"
+					class="validate[optional]" type="text" /><div style="padding-bottom:8px;color:#000000;"><small><font face="Verdana"></font></small></div>
+</td>
+</tr><tr valign="top" ><td id="td_element_label_9" style="" align=""><font face="Verdana" size="2" color="#000000"><b>Message</b></font>
+<span style="color:red;"><small></small></span>
+</td></tr><tr><td id="td_element_field_9" style=""><textarea id="element_9" name="element_9" cols="99%" rows="10"
+					class="validate[optional] "></textarea><div style="padding-bottom:8px;color:#000000;"><small><font face="Verdana"></font></small></div>
+</td>
+</tr>
+<tr><td colspan="2">
+<script type="text/javascript">
+        var RecaptchaOptions = {
+	        theme: 'custom',
+	        custom_theme_widget: 'emf-recaptcha_widget'
+		};
+</script>
+<div id='emf-recaptcha_widget' style='display:none'>
+<div id='recaptcha_image'></div>
+<div id='recaptcha_controls'>
+<a title='Get a new challenge' href="javascript:Recaptcha.reload()"><img src='//assets.emailmeform.com/images/recaptcha_refresh.png?RU1GLTAyLTE5LTEwOTA1' alt='Get a new challenge'></a><!--
+			--><a title='Get an audio challenge' href="javascript:Recaptcha.switch_type('audio')" class='recaptcha_only_if_image'><img src='//assets.emailmeform.com/images/recaptcha_audio.png?RU1GLTAyLTE5LTEwOTA1' alt='Get an audio challenge'></a><!--
+			--><a title='Get a visual challenge' href="javascript:Recaptcha.switch_type('image')" class='recaptcha_only_if_audio'><img src='//assets.emailmeform.com/images/recaptcha_image.png?RU1GLTAyLTE5LTEwOTA1' alt='Get a visual challenge'></a><!--
+			--><a title='Help' href="javascript:Recaptcha.showhelp()"><img alt='Help' src='//assets.emailmeform.com/images/recaptcha_help.png?RU1GLTAyLTE5LTEwOTA1'></a>
+</div>
+<img id='recaptcha_logo' style='' src='https://www.google.com/recaptcha/api/img/clean/logo.png'>
+<input type='text' id='recaptcha_response_field' name='recaptcha_response_field' 
+			placeholder='Type the text'>
+</div>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api/challenge?k=6LchicQSAAAAAGksQmNaDZMw3aQITPqZEsX77lT9"></script>
+<noscript>
+<iframe src="https://www.google.com/recaptcha/api/noscript?k=6LchicQSAAAAAGksQmNaDZMw3aQITPqZEsX77lT9" height="300" width="500" frameborder="0"></iframe><br/>
+<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
+<input type="hidden" name="recaptcha_response_field" value="manual_challenge"/>
+</noscript>
+</td></tr><tr><td colspan="2" align="left">
+<input name="element_counts" value="10" type="hidden" />
+<input name="embed" value="forms" type="hidden" /><input  value="Submit" type="submit" />
+</td></tr></table></form><div style="margin-top:18px;text-align:center"><div id='emf_advertisement'><font face="Verdana" size="2" color="#000000">Powered by</font><span style="position: relative; padding-left: 3px; bottom: -5px;"><img src="//assets.emailmeform.com/images/footer-logo.png?RU1GLTAyLTE5LTEwOTA1" /></span><font face="Verdana" size="2" color="#000000">EMF </font><a style="text-decoration:none;" href="http://www.emailmeform.com/survey.html" target="_blank"><font face="Verdana" size="2" color="#000000">Survey</font></a></div><div><font face="Verdana" size="2" color="#000000"><a style="line-height:20px;font-size:70%;text-decoration:none;" href="https://www.emailmeform.com/report-abuse.html?http://www.emailmeform.com/builder/form/2g6KfP89MXe8fV87d" target="_blank">Report Abuse</a></font></div></div>
  <link href="/img/programming-bsc-it.jpg" itemprop="thumbnailUrl">
  </article>
     

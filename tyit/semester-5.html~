@@ -378,7 +378,7 @@
 		<a href="#" data-reveal-id="myModal" class="button [secondary success alert]" role="button" id="download-procedures">Practical Download Procedures</a> 
 		<div id="myModal" class="reveal-modal" data-reveal role="alert"> 
 			<h2>Download ZIP Version of Github repositories.</h2>
-			 	<a href="zip"></a>
+			 	<a href="#zip"></a>
 			 	<p id="zip">Just open respective subject's repository and download zip version of practicals as shown in below image.</p>
 			 	<img src="../img/Download-Repository-Zip.png" alt="How to download zip file of github repository"> 
 			<br>
