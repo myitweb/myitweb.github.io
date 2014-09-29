@@ -161,7 +161,7 @@
 
 	<div class="side-widget">
 
-	<script type="text/javascript">
+		<script type="text/javascript">
 	  ( function() {
 	    if (window.CHITIKA === undefined) { window.CHITIKA = { 'units' : [] }; };
 	    var unit = {"calltype":"async[2]","publisher":"harikesh","width":300,"height":150,"sid":"Chitika Default"};
@@ -171,7 +171,8 @@
 	}());
 	</script>
 	<script type="text/javascript" src="//cdn.chitika.net/getads.js" async></script>
-
+	
+	</div>
     </aside>
     
     </div>
