@@ -27,7 +27,31 @@
   
   <meta itemprop="datePublished" content="2014-08-05" />
   <meta itemprop="isFamilyFriendly" content="True" />	
-  	
+  
+
+  <div <div class="row">
+
+	<div class="large-2"></div>
+	
+	<div class="large-8">
+			
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- Test Responsive -->
+		<ins class="adsbygoogle"
+		     style="display:block"
+		     data-ad-client="ca-pub-1476292113673713"
+		     data-ad-slot="7048100381"
+		     data-ad-format="auto"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>	
+	</div>
+
+	<div class="large-2"></div>
+
+  </div>
+
+	
   <div>
   	<header role="banner">
 	
@@ -80,7 +104,7 @@
 	<div class="row">
 		
 		 	
-    <article id="main" class= "large-8 columns">
+    <article id="main" class="large-7 columns">
     	<h2 class="tidy" itemprop="headline">Welcome to Myitweb's Github Page.</h2>
     	<p itemprop="mainContentOfPage">This github page is created for <em itemprop="audience">Mumbai University's <abbr title="Bachelor of Science in Information Technology">BSc IT</abbr> students</em> to get all <strong itemprop="specialty">practicals</strong> conducted in course at same place.</p>
     	<p>Practicals include <span itemprop="educationalUse">programming assignments</span> carried out in <span itemprop="about">practical lab sessions</span>. All practicals are placed inside respective subject's repository. You can find all repositories inside <a href="https://github.com/myitweb" title="Download BSc IT Practicals" itemprop="significantLink">myitweb's github account</a>.</p>
@@ -184,7 +208,7 @@
     </div>
     
     <footer>
-	<div class="row head-foot">
+	<div class="row">
 	
 		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- Test Responsive -->
