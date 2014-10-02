@@ -448,7 +448,23 @@
     </div>
     </div>
     
-    <footer>
+     <footer>
+	<div class="row">
+	
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- Test Responsive -->
+		<ins class="adsbygoogle"
+		     style="display:block"
+		     data-ad-client="ca-pub-1476292113673713"
+		     data-ad-slot="7048100381"
+		     data-ad-format="auto"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>	
+	
+	</div>
+
+
     	<div class="row head-foot">
     	<div class="large-4 medium-6 columns">
     	<h3>Other Pages</h3>
