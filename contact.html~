@@ -1,281 +1,193 @@
 <!doctype html>
 <html class="no-js" dir="ltr" lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="This Github Page is created for BSc IT students of mumbai university to get resources to complete practical work" />
-    <title>Contact us | Myitweb's Github Page</title>
-    <link rel="stylesheet" href="css/foundation-min.css" />
-    <link rel="stylesheet" href="css/custom-min.css" />
-    <link href="img/favicon.ico" rel="shortcut icon">
-    <script src="js/vendor/modernizr.js"></script>
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="description" content="This Github Page is created for BSc IT students of mumbai university to get resources to complete practical work" />
+<title>Contact us | Myitweb's Github Page</title>
+<link rel="stylesheet" href="css/foundation-min.css" />
+<link rel="stylesheet" href="css/custom-min.css" />
+<link href="img/favicon.ico" rel="shortcut icon">
+<script src="js/vendor/modernizr.js"></script>
 <script type="text/javascript">var enforce="myitweb.github.io";if(enforce==window.location.host&&window.location.protocol!="https:")window.location.protocol="https"</script>
-    <script>
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-	
-	  ga('create', 'UA-53957184-1', 'auto');
-	  ga('send', 'pageview');
-	
-	</script>
-
-  </head>
-  <body itemscope itemtype="http://schema.org/ContactPage">
-  	
-	<meta itemprop="datePublished" content="2014-08-05" />
-  	<meta itemprop="isFamilyFriendly" content="True" />	
-  	
-  <div>
-  	<header role="banner">
-	
-    	<div class="row head-foot">	
-    		<div class="large-8 medium-12 columns">
-	  		<h1><a href="https://myitweb.github.io" title="BSc IT Github">BSc IT Practicals</a></h1>
-	  		<h2>Mumbai University</h2>
-	  		</div>
-	  	
-	  		<div class="large-4  columns">
-	  		<h1>Myitweb's Github Page</h1>
-	  		<p>Download; Fork; Pull; Clone; Commit;</p>
-	  		</div>
-		</div>	  						  		
-			<span style="display:none;" id="skiplinks">
-			<a href="#nav" title="Main Navigation Menu"> skip to main menu bar </a>|
-			<a href="#main" title="Main Content on Page"> skip to main content </a>| 
-			<a href="#sidebar" title="Sidebar of Blog">skip to sidebar</a>
-			</span>
-			
-		<div class="contain-to-grid">
-		<nav class="top-bar" data-topbar role="navigation" id="nav">
-	    	<ul class="title-area">
-	    		<li class="name"><h1><a href="/">Home</a></h1></li>
-	    		<li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li> 
-	    	</ul>
-	    	
-	    	<section class="top-bar-section">
-	    		<ul class="left">
-		    		<li class="name" ><h1><a itemprop="relatedLink" title="BSc IT Blog" target="_blank" href="http://www.bscithub.blogspot.com">Blog</a></h1></li>
-		    		<li class="name"><h1><a itemprop="relatedLink" title="BSc IT Website" target="_blank" href="http://www.myitweb.weebly.com">Website</a></h1></li>
-				</ul>	   		
-				
-				<ul class="right">
-					<li class="name"><h1><a href="fyit/semester-1.html" title="Semester I Practicals">Sem 1</a></h1></li>
-		    		<li class="name"><h1><a href="fyit/semester-2.html" title="Semester II Practicals">Sem 2</a></h1></li>
-		    		<li class="name"><h1><a href="syit/semester-3.html" title="Semester III Practicals">Sem 3</a></h1></li>
-		    		<li class="name"><h1><a href="syit/semester-4.html" title="Semester IV Practicals">Sem 4</a></h1></li>
-		    		<li class="name"><h1><a href="tyit/semester-5.html" title="Semester V Practicals">Sem 5</a></h1></li>
-		    		<li class="name"><h1><a href="tyit/semester-6.html" title="Semester VI Practicals">Sem 6</a></h1></li>
-				</ul>
-	   		</section>
-	    	    	
-	    </nav>
-	    </div>
-	    
-	</header>    
-
-
-	<div class="row">
-		
-		 	
-<article id="main" class= "large-8 columns" itemprop="mainContentOfPage">
-    	<h2 class="tidy" itemprop="headline">Contact us</h2>
-	<p>Please fill this form and relax. We will get in touch with you using your email address.</p>
-
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><form id="emf-form" target="_self" enctype="multipart/form-data" method="post" action="http://www.emailmeform.com/builder/form/2g6KfP89MXe8fV87d">
-<table style="text-align:left;" cellpadding="2" cellspacing="0" border="0" bgcolor="#FFFFFF">
-<tr>
-</tr><tr valign="top" ><td id="td_element_label_0" style="" align=""><font face="Verdana" size="2" color="#000000"><b>Name</b></font>
-<span style="color:red;"><small></small></span>
-</td></tr>
-
-<tr valign="top" ><td id="td_element_label_2" style="" align=""><font face="Verdana" size="2" color="#000000"><b>First</b></font>
-<span style="color:red;"><small></small></span>
-</td></tr><tr><td id="td_element_field_2" style=""><input id="element_2" name="element_2" value="" size="30"
-					class="validate[optional]" type="text" /><div style="padding-bottom:8px;color:#000000;"><small><font face="Verdana"></font></small></div>
-</td>
-</tr><tr valign="top" ><td id="td_element_label_3" style="" align=""><font face="Verdana" size="2" color="#000000"><b>Last</b></font>
-<span style="color:red;"><small></small></span>
-</td></tr><tr><td id="td_element_field_3" style=""><input id="element_3" name="element_3" value="" size="30"
-					class="validate[optional]" type="text" /><div style="padding-bottom:8px;color:#000000;"><small><font face="Verdana"></font></small></div>
-</td>
-</tr><tr valign="top" ><td id="td_element_label_4" style="" align=""><font face="Verdana" size="2" color="#000000"><b>Suffix</b></font>
-<span style="color:red;"><small></small></span>
-</td></tr><tr><td id="td_element_field_4" style=""><input id="element_4" name="element_4" value="" size="30"
-					class="validate[optional]" type="text" /><div style="padding-bottom:8px;color:#000000;"><small><font face="Verdana"></font></small></div>
-</td>
-</tr><tr valign="top" ><td id="td_element_label_5" style="" align=""><font face="Verdana" size="2" color="#000000"><b>MI</b></font>
-<span style="color:red;"><small></small></span>
-</td></tr><tr><td id="td_element_field_5" style=""><input id="element_5" name="element_5" value="" size="30"
-					class="validate[optional]" type="text" /><div style="padding-bottom:8px;color:#000000;"><small><font face="Verdana"></font></small></div>
-</td>
-</tr><tr valign="top" ><td id="td_element_label_6" style="" align=""><font face="Verdana" size="2" color="#000000"><b>Middle</b></font>
-<span style="color:red;"><small></small></span>
-</td></tr><tr><td id="td_element_field_6" style=""><input id="element_6" name="element_6" value="" size="30"
-					class="validate[optional]" type="text" /><div style="padding-bottom:8px;color:#000000;"><small><font face="Verdana"></font></small></div>
-</td>
-</tr><tr valign="top" ><td id="td_element_label_7" style="" align=""><font face="Verdana" size="2" color="#000000"><b>Email</b></font>
-<span style="color:red;"><small></small></span>
-</td></tr><tr><td id="td_element_field_7" style=""><input id="element_7" name="element_7"
-				class="validate[optional,custom[email]]"
-				value="" size="30" type="text" /><div style="padding-bottom:8px;color:#000000;"><small><font face="Verdana"></font></small></div>
-</td>
-</tr><tr valign="top" ><td id="td_element_label_8" style="" align=""><font face="Verdana" size="2" color="#000000"><b>Subject</b></font>
-<span style="color:red;"><small></small></span>
-</td></tr><tr><td id="td_element_field_8" style=""><input id="element_8" name="element_8" value="" size="30"
-					class="validate[optional]" type="text" /><div style="padding-bottom:8px;color:#000000;"><small><font face="Verdana"></font></small></div>
-</td>
-</tr><tr valign="top" ><td id="td_element_label_9" style="" align=""><font face="Verdana" size="2" color="#000000"><b>Message</b></font>
-<span style="color:red;"><small></small></span>
-</td></tr><tr><td id="td_element_field_9" style=""><textarea id="element_9" name="element_9" cols="99%" rows="10"
-					class="validate[optional] "></textarea><div style="padding-bottom:8px;color:#000000;"><small><font face="Verdana"></font></small></div>
-</td>
-</tr>
-<tr><td colspan="2">
-<script type="text/javascript">
-        var RecaptchaOptions = {
-	        theme: 'custom',
-	        custom_theme_widget: 'emf-recaptcha_widget'
-		};
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-53957184-1', 'auto');
+ga('send', 'pageview');
 </script>
-<div id='emf-recaptcha_widget' style='display:none'>
-<div id='recaptcha_image'></div>
-<div id='recaptcha_controls'>
-<a title='Get a new challenge' href="javascript:Recaptcha.reload()"><img src='//assets.emailmeform.com/images/recaptcha_refresh.png?RU1GLTAyLTE5LTEwOTA1' alt='Get a new challenge'></a><!--
-			--><a title='Get an audio challenge' href="javascript:Recaptcha.switch_type('audio')" class='recaptcha_only_if_image'><img src='//assets.emailmeform.com/images/recaptcha_audio.png?RU1GLTAyLTE5LTEwOTA1' alt='Get an audio challenge'></a><!--
-			--><a title='Get a visual challenge' href="javascript:Recaptcha.switch_type('image')" class='recaptcha_only_if_audio'><img src='//assets.emailmeform.com/images/recaptcha_image.png?RU1GLTAyLTE5LTEwOTA1' alt='Get a visual challenge'></a><!--
-			--><a title='Help' href="javascript:Recaptcha.showhelp()"><img alt='Help' src='//assets.emailmeform.com/images/recaptcha_help.png?RU1GLTAyLTE5LTEwOTA1'></a>
+</head>
+<body itemscope itemtype="http://schema.org/ContactPage">
+<meta itemprop="datePublished" content="2014-08-05" />
+<meta itemprop="isFamilyFriendly" content="True" />	
+<div>
+<header role="banner">
+<div class="row head-foot">	
+<div class="large-8 medium-12 columns">
+<h1><a href="https://myitweb.github.io" title="BSc IT Github">BSc IT Practicals</a></h1>
+<h2>Mumbai University</h2>
 </div>
-<img id='recaptcha_logo' style='' src='https://www.google.com/recaptcha/api/img/clean/logo.png'>
-<input type='text' id='recaptcha_response_field' name='recaptcha_response_field' 
-			placeholder='Type the text'>
+<div class="large-4 columns">
+<h1>Myitweb's Github Page</h1>
+<p>Download; Fork; Pull; Clone; Commit;</p>
 </div>
-<script type="text/javascript" src="https://www.google.com/recaptcha/api/challenge?k=6LchicQSAAAAAGksQmNaDZMw3aQITPqZEsX77lT9"></script>
-<noscript>
-<iframe src="https://www.google.com/recaptcha/api/noscript?k=6LchicQSAAAAAGksQmNaDZMw3aQITPqZEsX77lT9" height="300" width="500" frameborder="0"></iframe><br/>
-<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
-<input type="hidden" name="recaptcha_response_field" value="manual_challenge"/>
-</noscript>
-</td></tr><tr><td colspan="2" align="left">
-<input name="element_counts" value="10" type="hidden" />
-<input name="embed" value="forms" type="hidden" /><input  value="Submit" type="submit" />
-</td></tr></table></form><div style="margin-top:18px;text-align:center"><div id='emf_advertisement'><font face="Verdana" size="2" color="#000000">Powered by</font><span style="position: relative; padding-left: 3px; bottom: -5px;"><img src="//assets.emailmeform.com/images/footer-logo.png?RU1GLTAyLTE5LTEwOTA1" /></span><font face="Verdana" size="2" color="#000000">EMF </font><a style="text-decoration:none;" href="http://www.emailmeform.com/survey.html" target="_blank"><font face="Verdana" size="2" color="#000000">Survey</font></a></div><div><font face="Verdana" size="2" color="#000000"><a style="line-height:20px;font-size:70%;text-decoration:none;" href="https://www.emailmeform.com/report-abuse.html?http://www.emailmeform.com/builder/form/2g6KfP89MXe8fV87d" target="_blank">Report Abuse</a></font></div></div>
- <link href="/img/programming-bsc-it.jpg" itemprop="thumbnailUrl">
- </article>
-    
-  
-    
-    <div class="large-4 columns sidebar">
-    <aside id="sidebar">
-   		<div class="side-widget">
-			<div class="icon-bar three-up">  		
-		  		<a class="item" itemprop="relatedLink" title="Follow us on Facebook" target="_blank" href="https://www.facebook.com/Viva.Itans">
-		    		<img src="img/facebook-page.gif" alt="Myitweb's Facebook Page">
-		    		
-		  		</a>
-		  		
-		  		<a class="item"  title="Follow us on Google+" target="_blank" href="https://plus.google.com/117513980967892792141">
-		    		<img src="img/google-plus-page.gif" alt="Myitweb's Google+ Page">
-		    		
-		  		</a>
-		  		
-		  		<a class="item"  title="Github Repositories" target="_blank" href="https://github.com/myitweb/">
-		    		<img src="img/bscit-github-repo.png" alt="Myitweb's Github Repositories">
-		    		
-		  		</a>
-	  		</div>
-		</div>
-		
-		<div class="side-widget">
-		<a href="#" data-reveal-id="myModal" class="button [secondary success alert]" role="button" id="download-procedures">Practical Download Procedures</a> 
-		<div id="myModal" class="reveal-modal" data-reveal role="alert"> 
-			<h2>Download ZIP Version of Github repositories.</h2>
-			 	<a href="#zip"></a>
-			 	<p id="zip">Just open respective subject's repository and download zip version of practicals as shown in below image.</p>
-			 	<img src="img/Download-Repository-Zip.png" alt="How to download zip file of github repository"> 
-			<br>
-			<p>
-				You can also fork or clone repositories to start your own version of practicals.
-			</p>
-			<p>
-				If you like to work from terminal then you can pull repo or fetch repo by 
-			</p>
-			<p><strong>git pull</strong></p>
-			<p><strong>git fetch</strong></p>
-					
-			 <a class="close-reveal-modal" aria-label="close" id="down-proc-close">&#215;</a> 
-		</div>
-			
-	</div>
-	<div class="side-widget">
-		<div class="panel callout radius">
-			 <h3>About Github</h3> 
-			 <p>Github is colabrative platform to create, manage and share software codes with community.</p>
-			 <p>Github is based on popular software version control system Git.</p>
-			 <p>Having good working knowledge of Git and Github is must in today's programming environment.</p>
-			 <a href="#" class="[tiny small medium large] [secondary alert success] [radius round] button split">
-			 	Start Learning
-			 	 <span data-dropdown="drop" role="menu" aria-hidden="true"></span>
-			 	 </a>
-			 	 <br>
-			 	  <ul id="drop" class="f-dropdown" data-dropdown-content role="menubar">
-			 	  	<li role="menuitem"><a href="http://git-scm.com/doc" title="Git documentation" target="_blank">&nbsp;Learn Git</a></li>
-			 	  	<li role="menuitem"><a href="https://help.github.com/" title="Github documentation" target="_blank">Learn Github</a></li>
-			 	  	 <li role="menuitem"><a href="https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf" title="Git and Github Commands download" download target="_blank">Git and Github Commands Cheat Sheat</a></li> 
-			 	  </ul> 
-		</div>		
-	</div>
-    </aside>
-    
-    </div>
-    </div>
-    
-    <footer>
-    	<div class="row head-foot">
-    	<div class="large-4 medium-6 columns">
-    	<h3>Other Pages</h3>
-    	<ul>
-    		<li><a href="about.html" title="About Myitweb's Github Page">About</a></li>
-    		<li><a href="contact.html" title="Contact Author">Contact</a></li>
-    		<li><a href="disclaimer.html" title="Read Disclaimer">Disclaimer</a></li>
-    		<li><a href="privacy-policy.html" title="Privacy Policy of Myitweb Github">Privacy Policy</a></li>
-    		<li><a href="sitemap.html" title="HTML Sitemap of this Site">Sitemap</a></li>
-    	</ul>
-    	</div>
-		
-		<div class="large-4 medium-6 columns">
-    	<h3>Other Sites</h3>
-    	<ul>
-    		<li itemprop="isPartOf"><a  href="http://www.myitweb.weebly.com" title="BSc IT Website">Myitweb</a></li>
-    		<li itemprop="mentions"><a href="http://www.bscithub.blogspot.com" title="BSc IT Blog">Bscithub</a></li>
-    	</ul>
-    	</div>
-    	
-    	<div class="large-4 medium-6 columns">
-    	<h3>Social Pages</h3>
-    	<ul>
-    		<li><a href="https://www.facebook.com/Viva.Itans" title="Follow us on Facebook">Facebook</a></li>
-    		<li><a href="https://plus.google.com/117513980967892792141" title="Follow us on Google+" itemprop="publisher">Google+</a></li>
-    		<li><a href="https://github.com/myitweb/" title="BSc IT Github Repo">Github</a></li>
-    		<li><a href="https://plus.google.com/109819193986873430368" rel="author" itemprop="author">Author</a></li>
-    	</ul>
-    	</div>
-    	</div>
-    	
-    	
-    		<p class="text-center">
-    			<small class="label [radius round]">Myitweb &nbsp;&copy; All Rights Reserved </small>
-    		</p>
-    	  	
-    </footer>
-   
-   </div>
-   
-    <script src="js/vendor/jquery.js"></script>
-    <script src="js/foundation.min.js"></script>
-    <script>
-      $(document).foundation();
-    </script>
-  </body>
+</div>	
+<span style="display:none;" id="skiplinks">
+<a href="#nav" title="Main Navigation Menu"> skip to main menu bar </a>|
+<a href="#main" title="Main Content on Page"> skip to main content </a>|
+<a href="#sidebar" title="Sidebar of Blog">skip to sidebar</a>
+</span>
+<div class="contain-to-grid">
+<nav class="top-bar" data-topbar role="navigation" id="nav">
+<ul class="title-area">
+<li class="name"><h1><a href="/">Home</a></h1></li>
+<li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+</ul>
+<section class="top-bar-section">
+<ul class="left">
+<li class="name" ><h1><a itemprop="relatedLink" title="BSc IT Blog" target="_blank" href="http://www.bscithub.blogspot.com">Blog</a></h1></li>
+<li class="name"><h1><a itemprop="relatedLink" title="BSc IT Website" target="_blank" href="http://www.myitweb.weebly.com">Website</a></h1></li>
+</ul>	
+<ul class="right">
+<li class="name"><h1><a href="fyit/semester-1.html" title="Semester I Practicals">Sem 1</a></h1></li>
+<li class="name"><h1><a href="fyit/semester-2.html" title="Semester II Practicals">Sem 2</a></h1></li>
+<li class="name"><h1><a href="syit/semester-3.html" title="Semester III Practicals">Sem 3</a></h1></li>
+<li class="name"><h1><a href="syit/semester-4.html" title="Semester IV Practicals">Sem 4</a></h1></li>
+<li class="name"><h1><a href="tyit/semester-5.html" title="Semester V Practicals">Sem 5</a></h1></li>
+<li class="name"><h1><a href="tyit/semester-6.html" title="Semester VI Practicals">Sem 6</a></h1></li>
+</ul>
+</section>
+</nav>
+</div>
+</header>
+<div class="row">
+<article id="main" class= "large-8 columns" itemprop="mainContentOfPage">
+<h2 class="tidy" itemprop="headline">Contact us</h2>
+<p>Please fill this form and relax. We will get in touch with you using your email address.</p>
+<script language="javascript">var sa_email_id = '32064-c3e97';var sa_sent_text = 'Thank you for contacting us. We will get back to you soon.';</script>
+<script language="javascript" src="http://s1.smartaddon.com/sa_htmlform.js"></script>
+<div id="sa_contactdiv">
+<form name=sa_htmlform style="margin:0px" onsubmit="return sa_contactform()">
+<table>
+<tr><td>Name:<br><input type="text" name="name" /></td></tr>
+<tr><td>E-mail Address: <span style="color:#D70000">*</span><br><input type="text" name="email" required="true" /></td></tr>
+<tr><td>Subject: <span style="color:#D70000">*</span><br><input type="text" name="subject" required="true" /></td></tr>
+<tr><td>Message: <span style="color:#D70000">*</span><br><textarea name="message" cols="42" rows="9" required="true"></textarea></td></tr>
+<tr><td><input type="submit" value="Send Message" style="font-weight:bold"></td></tr>
+</table>
+</form>
+<link href="/img/programming-bsc-it.jpg" itemprop="thumbnailUrl">
+</article>
+<div class="large-4 columns sidebar">
+<aside id="sidebar">
+<div class="side-widget">
+<div class="icon-bar three-up">
+<a class="item" itemprop="relatedLink" title="Follow us on Facebook" target="_blank" href="https://www.facebook.com/Viva.Itans">
+<img src="img/facebook-page.gif" alt="Myitweb's Facebook Page">
+</a>
+<a class="item" title="Follow us on Google+" target="_blank" href="https://plus.google.com/117513980967892792141">
+<img src="img/google-plus-page.gif" alt="Myitweb's Google+ Page">
+</a>
+<a class="item" title="Github Repositories" target="_blank" href="https://github.com/myitweb/">
+<img src="img/bscit-github-repo.png" alt="Myitweb's Github Repositories">
+</a>
+</div>
+</div>
+<div class="side-widget">
+<a href="#" data-reveal-id="myModal" class="button [secondary success alert]" role="button" id="download-procedures">Practical Download Procedures</a>
+<div id="myModal" class="reveal-modal" data-reveal role="alert">
+<h2>Download ZIP Version of Github repositories.</h2>
+<a href="#zip"></a>
+<p id="zip">Just open respective subject's repository and download zip version of practicals as shown in below image.</p>
+<img src="img/Download-Repository-Zip.png" alt="How to download zip file of github repository">
+<br>
+<p>
+You can also fork or clone repositories to start your own version of practicals.
+</p>
+<p>
+If you like to work from terminal then you can pull repo or fetch repo by
+</p>
+<p><strong>git pull</strong></p>
+<p><strong>git fetch</strong></p>
+<a class="close-reveal-modal" aria-label="close" id="down-proc-close">&#215;</a>
+</div>
+</div>
+<div class="side-widget">
+<div class="panel callout radius">
+<h3>About Github</h3>
+<p>Github is colabrative platform to create, manage and share software codes with community.</p>
+<p>Github is based on popular software version control system Git.</p>
+<p>Having good working knowledge of Git and Github is must in today's programming environment.</p>
+<a href="#" class="[tiny small medium large] [secondary alert success] [radius round] button split">
+Start Learning
+<span data-dropdown="drop" role="menu" aria-hidden="true"></span>
+</a>
+<br>
+<ul id="drop" class="f-dropdown" data-dropdown-content role="menubar">
+<li role="menuitem"><a href="http://git-scm.com/doc" title="Git documentation" target="_blank">&nbsp;Learn Git</a></li>
+<li role="menuitem"><a href="https://help.github.com/" title="Github documentation" target="_blank">Learn Github</a></li>
+<li role="menuitem"><a href="https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf" title="Git and Github Commands download" download target="_blank">Git and Github Commands Cheat Sheat</a></li>
+</ul>
+</div>	
+</div>
+</aside>
+</div>
+</div>
+<footer>
+<div class="row head-foot">
+<div class="large-4 medium-6 columns">
+<h3>Other Pages</h3>
+<ul>
+<li><a href="about.html" title="About Myitweb's Github Page">About</a></li>
+<li><a href="contact.html" title="Contact Author">Contact</a></li>
+<li><a href="disclaimer.html" title="Read Disclaimer">Disclaimer</a></li>
+<li><a href="privacy-policy.html" title="Privacy Policy of Myitweb Github">Privacy Policy</a></li>
+<li><a href="sitemap.html" title="HTML Sitemap of this Site">Sitemap</a></li>
+</ul>
+</div>
+<div class="large-4 medium-6 columns">
+<h3>Other Sites</h3>
+<ul>
+<li itemprop="isPartOf"><a href="http://www.myitweb.weebly.com" title="BSc IT Website">Myitweb</a></li>
+<li itemprop="mentions"><a href="http://www.bscithub.blogspot.com" title="BSc IT Blog">Bscithub</a></li>
+</ul>
+</div>
+<div class="large-4 medium-6 columns">
+<h3>Social Pages</h3>
+<ul>
+<li><a href="https://www.facebook.com/Viva.Itans" title="Follow us on Facebook">Facebook</a></li>
+<li><a href="https://plus.google.com/117513980967892792141" title="Follow us on Google+" itemprop="publisher">Google+</a></li>
+<li><a href="https://github.com/myitweb/" title="BSc IT Github Repo">Github</a></li>
+<li><a href="https://plus.google.com/109819193986873430368" rel="author" itemprop="author">Author</a></li>
+</ul>
+</div>
+</div>
+<p class="text-center">
+<small class="label [radius round]">Myitweb &nbsp;&copy; All Rights Reserved </small>
+</p>
+</footer>
+</div>
+<script src="js/vendor/jquery.js"></script>
+<script src="js/foundation.min.js"></script>
+<script>
+$(document).foundation();
+</script>
+</body>
 </html>
+
+    Status
+    API
+    Training
+    Shop
+    Blog
+    About
+
+    © 2014 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Contact
+
+
