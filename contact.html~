@@ -66,18 +66,7 @@ ga('send', 'pageview');
 <article id="main" class= "large-8 columns" itemprop="mainContentOfPage">
 <h2 class="tidy" itemprop="headline">Contact us</h2>
 <p>Please fill this form and relax. We will get in touch with you using your email address.</p>
-<script language="javascript">var sa_email_id = '32064-c3e97';var sa_sent_text = 'Thank you for contacting us. We will get back to you soon.';</script>
-<script language="javascript" src="http://s1.smartaddon.com/sa_htmlform.js"></script>
-<div id="sa_contactdiv">
-<form name=sa_htmlform style="margin:0px" onsubmit="return sa_contactform()">
-<table>
-<tr><td>Name:<br><input type="text" name="name" /></td></tr>
-<tr><td>E-mail Address: <span style="color:#D70000">*</span><br><input type="text" name="email" required="true" /></td></tr>
-<tr><td>Subject: <span style="color:#D70000">*</span><br><input type="text" name="subject" required="true" /></td></tr>
-<tr><td>Message: <span style="color:#D70000">*</span><br><textarea name="message" cols="42" rows="9" required="true"></textarea></td></tr>
-<tr><td><input type="submit" value="Send Message" style="font-weight:bold"></td></tr>
-</table>
-</form>
+<!-- form here -->
 <link href="/img/programming-bsc-it.jpg" itemprop="thumbnailUrl">
 </article>
 <div class="large-4 columns sidebar">
