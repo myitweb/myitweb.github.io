@@ -67,7 +67,6 @@
 	    	<section class="top-bar-section">
 	    		<ul class="left">
 		    		<li class="name" ><h1><a itemprop="relatedLink" title="BSc IT Blog" target="_blank" href="http://www.bscithub.blogspot.com">Blog</a></h1></li>
-		    		<li class="name"><h1><a  itemprop="relatedLink" title="BSc IT Website" target="_blank" href="http://www.myitweb.weebly.com">Website</a></h1></li>
 				</ul>	   		
 				
 				<ul class="right">
@@ -270,12 +269,6 @@
     <script>
       $(document).foundation();
     </script>
-
-	<script type="text/javascript">
-	var infolinks_pid = 2323316;
-	var infolinks_wsid = 0;
-	</script>
-	<script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
 
 </body>
 </html>

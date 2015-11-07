@@ -24,7 +24,7 @@
   <body itemscope itemtype="http://schema.org/WebPage">
 
 
-  <meta itemprop="datePublished" content="2014-08-05" />
+  <meta itemprop="datePublished" content="2014-09-30" />
   <meta itemprop="isFamilyFriendly" content="True" />	
   	
   <div>
@@ -59,7 +59,6 @@
 	    	<section class="top-bar-section">
 	    		<ul class="left">
 		    		<li class="name" ><h1><a itemprop="relatedLink" title="BSc IT Blog" target="_blank" href="http://www.bscithub.blogspot.com">Blog</a></h1></li>
-		    		<li class="name"><h1><a itemprop="relatedLink" title="BSc IT Website" target="_blank" href="http://www.myitweb.weebly.com">Website</a></h1></li>
 				</ul>	   		
 				
 				<ul class="right">

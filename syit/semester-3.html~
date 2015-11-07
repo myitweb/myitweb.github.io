@@ -296,7 +296,23 @@
     </div>
     </div>
     
-    <footer>
+     <footer>
+	<div class="row">
+	
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- Test Responsive -->
+		<ins class="adsbygoogle"
+		     style="display:block"
+		     data-ad-client="ca-pub-1476292113673713"
+		     data-ad-slot="7048100381"
+		     data-ad-format="auto"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>	
+	
+	</div>
+
+
     	<div class="row head-foot">
     	<div class="large-4 medium-6 columns">
     	<h3>Other Pages</h3>
@@ -312,7 +328,6 @@
 		<div class="large-4 medium-6 columns">
     	<h3>Other Sites</h3>
     	<ul>
-    		<li itemprop="isPartOf"><a  href="http://www.myitweb.weebly.com" title="BSc IT Website">Myitweb</a></li>
     		<li itemprop="mentions"><a href="http://www.bscithub.blogspot.com" title="BSc IT Blog">Bscithub</a></li>
     	</ul>
     	</div>

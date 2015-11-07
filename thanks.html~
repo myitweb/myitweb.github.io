@@ -65,6 +65,7 @@ ga('send', 'pageview');
 <div class="row">
 <article id="main" class= "large-8 columns" itemprop="mainContentOfPage">
 <h2>Thank you for contacting <a href="https://myitweb.github.io">myitweb.</a></h2>
+<h3>Have a nice day !!!</h3>
 </article>
 <div class="large-4 columns sidebar">
 <aside id="sidebar">
@@ -136,7 +137,6 @@ Start Learning
 <div class="large-4 medium-6 columns">
 <h3>Other Sites</h3>
 <ul>
-<li itemprop="isPartOf"><a href="http://www.myitweb.weebly.com" title="BSc IT Website">Myitweb</a></li>
 <li itemprop="mentions"><a href="http://www.bscithub.blogspot.com" title="BSc IT Blog">Bscithub</a></li>
 </ul>
 </div>

@@ -232,7 +232,7 @@
 				<li>HttpServletRequest and HttpServletResponse</li>
 				<li>Servlet Calulator</li>
 				<li><abbr title="Java Database Connectivity">JDBC</abbr> Programming</li>
-				<li>J<abbr title="Java Server Pages">JSP</abbr> Application</li>
+				<li><abbr title="Java Server Pages">JSP</abbr> Application</li>
 				<li>Authentication using JSP</li>
 			</ol>
 			
@@ -255,7 +255,6 @@
 			<h5 class="subheader">Tutorials</h5>
 			
 			<ul>
-			<li><a href="http://myitweb.weebly.com/tutorials3.html" title="BSc IT Advanced Java Tutorials" target="_blank">Myitweb's Advanced Java Tutorials</a></li>
 			<li><a href="http://www.sharmanj.com" title="Free Video Tutorials" target="_blank">Advanced Java Video Tutorials</a></li>
 			</ul>
 			<p>There are many good video tutorials available on youtube so please search youtube by topic name.</p>
@@ -480,7 +479,6 @@
 		<div class="large-4 medium-6 columns">
     	<h3>Other Sites</h3>
     	<ul>
-    		<li itemprop="isPartOf"><a  href="http://www.myitweb.weebly.com" title="BSc IT Website">Myitweb</a></li>
     		<li itemprop="mentions"><a href="http://www.bscithub.blogspot.com" title="BSc IT Blog">Bscithub</a></li>
     	</ul>
     	</div>
